@@ -1,0 +1,10 @@
+{
+  "name": "angular-response",
+  "homepage": "github.com",
+  "authors": [
+    "AngularBoilers <apptester.softsol@gmail.com>"
+  ],
+  "description": "sync data between the model and the view",
+  "main": "response/response.js",
+  "license": "MIT"
+}
